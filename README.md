@@ -262,7 +262,7 @@ Ask the Open Source Team or your delivery lead.
 
 Ask your department head.
 
-##### But I am a delivery head.
+##### But I am a department head.
 
 Management can work with Legal to determine Intellectual Property concerns.
 
