@@ -1,4 +1,4 @@
-The MIT License (MIT) -- Expat
+The MIT License (Expat)
 
 Copyright (c) 2017 Jumia
 
