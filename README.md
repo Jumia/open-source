@@ -311,9 +311,11 @@ Host Python packages on [PyPI](https://pypi.python.org/pypi/) (PyPI has no names
 #### Docker Images
 
 Our docker images are always available in the docker hub [here](https://hub.docker.com/u/jumia/).
+
 Even if pushed to local registries the generally available image should always be on docker hub too in order to maximize contribution to the community
 as well as a fallback registry.
 Automated builds should be set from our github repositories at all times.
+
 `Repo Info` must have the proper information abiding to the documentation guidelines described in this README.
 
 Example to come:
