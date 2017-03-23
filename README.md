@@ -6,8 +6,8 @@
 How to Open Source at Jumia
 ==================
 
-A guide to releasing an open-source project at [Jumia](https://www.jumia.com). 
-Please feel free to use this as a template for your own organization's open source planning, policymaking, and development efforts. If there's a topic we've missed, or if you have a suggestion for making this better, let us know via our Issues tracker. 
+A guide to releasing an open-source project at [Jumia](https://www.jumia.com).
+Please feel free to use this as a template for your own organization's open source planning, policymaking, and development efforts. If there's a topic we've missed, or if you have a suggestion for making this better, let us know via our Issues tracker.
 
 We're really grateful to [Zalando](http://zalando.com) for creating a great documentation on how to companies should open source.
 
@@ -17,7 +17,7 @@ Because it can: improve quality, mitigate risk, increase trust, save us money, e
 
 ### Our Open Source First Principles
 
-**Vision**: 
+**Vision**:
 *We strongly believe that open source software benefits the tech community, and that providing broadly useful code to the world is a virtue. We strive to work in an open source way to the betterment of Jumia and the world.*
 
 - **Do “Open Source First”**: If your Jumia project can also be useful to non-Jumias, release it as open source from the start.
@@ -50,7 +50,7 @@ Join the Jumia Open Source team on [Slack](https://opensource-jumia.slack.com) a
 - Anything that would risk our competitive advantage. This typically means technologies we build that are intrinsic to generating or reinforcing the uniqueness of our customer experience, and that—if made public—would enable our competitors to implement it and erase our uniqueness. This could be:
   - confidential source code
   - recommendation algorithms
-  - search functionalities that give us an edge over competitors 
+  - search functionalities that give us an edge over competitors
 
 If you're open-sourcing a project that has contained sensitive information in the past, the sensitive information can still be retrieved from the Git commit history. Create an entirely new Git repo for it before pushing it to GitHub.
 
@@ -60,14 +60,14 @@ No issues? Great! On to the next section ...
 
 1. Create your project within your team's organization
 1. Talk with OSS Team to review your project. We'll do:
-    1. Push to incubator 
-    1. Docs review 
-    1. Code review 
+    1. Push to incubator
+    1. Docs review
+    1. Code review
 1. After these checks there are two options:
     1. Keep in Incubator
         1. Stays private - either has company secrets or is rejected in one of the previous rules
     1. Move to public Main Org
-        1. Considered by the OSS team to be public ready 
+        1. Considered by the OSS team to be public ready
 
 #### What Makes a Project “Open Source”
 
@@ -76,7 +76,7 @@ No issues? Great! On to the next section ...
 - **is tested**. It has automated tests and takes advantage of test coverage.
 - **is under active development**, or is stable enough to be considered a “finished” product. If the project is incomplete, at least one maintainer has worked on it in the last three months. If it’s stable and doesn’t require constant maintenance, you’ve stated as much in your README.
 - **is innovative**. If it duplicates an existing project, it does at least one thing better, faster, differently, etc., or is higher-quality.
-- **meets our non-negotiable guidelines** regarding security and compliance. 
+- **meets our non-negotiable guidelines** regarding security and compliance.
 - **is an MVP**. It either meets or surpasses “minimum viable product” status. An outside developer could use it and even contribute to it. If it’s buggy or very early-stage, it includes a brief development status in the intro stating as much. (This template can help you.)
 - **has a plan**. Its maintainers care about making it a success. They commit to responding to PRs and issues in a timely manner (48-72 hours), thank contributors, and convert quality contributors to trusted maintainers as appropriate. If you need some guidance, check out [Mozilla's helpful resources](https://mozilla.github.io/open-leadership-training-series/articles/open-project-maintenance/open-project-maintenance/) on this topic.
 
@@ -86,7 +86,7 @@ No issues? Great! On to the next section ...
 
 To support our Open Source First principle, "Share Your Code,” while reserving our main GitHub org for projects useful beyond Jumia.
 
-###### Can you launch a project directly to the Incubator? 
+###### Can you launch a project directly to the Incubator?
 
 Yes. And you should, if it meets “coding in the open” criteria.
 
@@ -100,7 +100,7 @@ Absolutely. Even if Incubator projects are not currently useful outside of Jumia
 
 ###### What happens when you transfer a repo from one org to another?
 
-The URL is re-routed to the new organization (jumia-incubator). All git clone, git fetch, or git push operations targeting the previous location will continue to function as if made on the new location. Links will be transferred to the new repository. 
+The URL is re-routed to the new organization (jumia-incubator). All git clone, git fetch, or git push operations targeting the previous location will continue to function as if made on the new location. Links will be transferred to the new repository.
 
 That said, GitHub strongly recommends that anyone who had a reference to the old link locally change to the new URL. [Read GitHub’s documentation](https://help.github.com/articles/transferring-a-repository/#redirects-and-git-remotes) to learn more.
 
@@ -108,11 +108,11 @@ That said, GitHub strongly recommends that anyone who had a reference to the old
 
 The Open Source Team will ask you to transfer the project yourself to the Incubator. If we don’t get any response within 14 days, or if you agree to the transfer but don’t take action within a week (seven days), your project will be relocated to the Incubator for you.
 
-###### Is it possible to transfer GitHub issues from one project to the other? 
+###### Is it possible to transfer GitHub issues from one project to the other?
 
 No, GitHub doesn’t allow it. (There are migration tools that can copy issues and their comments to another project, but these don't transfer the relevant author info; they assign ownership to the account used by the migration tool.)
 
-###### Is it possible to transfer the ownership of a Github repo to someone else? 
+###### Is it possible to transfer the ownership of a Github repo to someone else?
 Yes.
 
 ## Project Basics
@@ -122,7 +122,7 @@ Yes.
 Ask your team and other peers to:
 - review your code
 - install and
-- test your project prior to public release. 
+- test your project prior to public release.
 
 Not sure what to ask for, or how to peer-review? This list of [11 best practices](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/) should help.
 
@@ -130,7 +130,7 @@ Not sure what to ask for, or how to peer-review? This list of [11 best practices
 
 #### Do:
 
-- [Use this checklist](https://github.com/Jumia/how-to-open-source/READMEtemplate.md). 
+- [Use this checklist](https://github.com/Jumia/how-to-open-source/READMEtemplate.md).
 - Break up text often, for better readability.
 - Think about SEO.
 
@@ -198,7 +198,7 @@ Don't have a smartphone, and/or want to give your phone number to GitHub? Accord
 
 ##### Which license do we use?
 
-[The MIT license](https://opensource.org/licenses/MIT). MIT is succinct, straightforward, and easy use in closed-source projects. It allows the most broad usage of our source code, and keeps open-sourcing easy and safe. You must include a separate license file in your repository with the entire text of the MIT license included. 
+[The MIT license](https://opensource.org/licenses/MIT). MIT is succinct, straightforward, and easy use in closed-source projects. It allows the most broad usage of our source code, and keeps open-sourcing easy and safe. You must include a separate license file in your repository with the entire text of the MIT license included.
 
 If your project uses the MIT license and incorporates third-party OSS components, then you must attach this sentence in your license file: “This software is licensed under the MIT license (see below), unless otherwise stated in the license files in higher directories (if any)." Please also provide the license files for every third-party source you add.
 
@@ -294,10 +294,6 @@ licenses += ("MIT", url("http://opensource.org/licenses/MIT"))
 
 “Dependency” typically means “being linked with,” “included in your artifact,” or “depends on it during runtime.” Dependencies can limit you. To remain in compliance, check the licenses of your projects. Your build tool’s license does not affect your software’s license. A jar file or Python dependency will affect your software.
 
-##### Unusual Additions
-
-As stated by Jumia Legal, it is OK to use React and other Facebook open-source software projects for Jumia projects.
-
 #### There Is No License
 
 If there is no license statement, the author automatically receives a copyright. [This](http://choosealicense.com/no-license/) implies that no one has the right to modify or redistribute the software. If you really need the software, contact the author (who is likely unaware) and ask him/her to provide a proper license.
@@ -314,11 +310,19 @@ Host Python packages on [PyPI](https://pypi.python.org/pypi/) (PyPI has no names
 
 #### Docker Images
 
-@TODO 
+Our docker images are always available in the docker hub [here](https://hub.docker.com/u/jumia/).
+Even if pushed to local registries the generally available image should always be on docker hub too in order to maximize contribution to the community
+as well as a fallback registry.
+Automated builds should be set from our github repositories at all times.
+`Repo Info` must have the proper information abiding to the documentation guidelines described in this README.
+
+Example to come:
+
+    docker push blah blah blah...
 
 ### Working with External Contributors
 
-The Open Source Team enthusiastically supports you in recruiting non-Jumias to contribute to your project. Collaboration and community are part of the fun of open source. 
+The Open Source Team enthusiastically supports you in recruiting non-Jumias to contribute to your project. Collaboration and community are part of the fun of open source.
 
 Give GitHub's ["Creating a new contributor on-ramp" doc](https://github.com/blog/2128-creating-a-new-contributor-on-ramp) a look for some expert guidance. (TL;DR version = be welcoming, inclusive, and clear about what sorts of contributions you're looking for most).
 
@@ -344,8 +348,8 @@ Add “Deprecated” at the top of your README, as well as a notice stating your
 After announcing your decision to deprecate the project:
    - notify your users. Put a notice on your README.
    - Wait 60 days.
-   - Try to find a new owner. Internal options first, then seek an external owner. Ask the Guild for help.
-   - Try to find an external owner. More guidance on this to come soon; for now, alert the Guild of any such plans.
+   - Try to find a new owner. Internal options first, then seek an external owner. Ask the OSS Team for help.
+   - Try to find an external owner. More guidance on this to come soon; for now, alert the OSS Team of any such plans.
 
 #### Tips for Finding a New Owner
 
@@ -374,7 +378,7 @@ We encourage you to contribute to other open-source projects in ways that benefi
 - making bug fixes to projects you're using on the job
 - submitting a patch or change to a language (for example, [Clojure](http://clojure.org/community/contributing))
 - pitching a feature request that your team/dept needs to a project we're using, getting confirmation from the maintainers to go forward, and doing the work
-  - a good idea is to review the project's GitHub Issues Tracker to see if anyone else has made the same feature request; restart that conversation and see if you can get them + others to work collaboratively to make the needed change 
+  - a good idea is to review the project's GitHub Issues Tracker to see if anyone else has made the same feature request; restart that conversation and see if you can get them + others to work collaboratively to make the needed change
 
 #### How to Become a Contributor
 
@@ -391,12 +395,12 @@ These articles from others in the community provide more detailed advice for get
 
 Ah, so you want to get more serious about contributing! Excellent. Becoming a core contributor to a major project is a fantastic way to learn from others, grow your network and keep the open source infrastructure we depend on strong and reliable. Others in the general open source community have written great how-to's on this topic. Here are a few:
 
-- [Tips for Becoming a Core Contributor](https://www.wordfugue.com/tips-becoming-core-contributor/) by Philip James 
+- [Tips for Becoming a Core Contributor](https://www.wordfugue.com/tips-becoming-core-contributor/) by Philip James
 - [On Becoming a Core Contributor](http://glasnt.com/blog/2016/06/08/on-becoming-a-core-contributor.html) by Katie McLaughlin
 - [Apache Software Foundation's how-to](https://community.apache.org/contributors/), including "Moving From Contributor to Committer," [FAQ](https://www.apache.org/dev/committers.html) and [guide](https://www.apache.org/dev/new-committers-guide.html)
 
-Please let the Guild know about your external contributions so we can help you get the recognition and support you deserve.
+Please let the OSS Team know about your external contributions so we can help you get the recognition and support you deserve.
 
-##### CLAs 
+##### CLAs
 
-For typical CLAs, we are safe — but ask our legal team (guild can provide their contact info) to double-check whenever you’re in doubt. CLAs that are safe: Oracle, Apache, Google Projects.
+Always check with the OSS Team on how to deal with Contributor License Agreements.
