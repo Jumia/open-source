@@ -228,7 +228,7 @@ You can can use GPL code — but only internally. Be sure it's a version of the 
 
 ##### Who is the license owner?
 
-Jumia Group.
+Jumia
 
 ##### Does my project need a LICENSE file?
 
@@ -243,7 +243,7 @@ No. In fact, we discourage it because it blows up file sizes, requires some buil
 Yep. Every README{.md,.rst} file must state the following at the end:
 
 >The MIT License (MIT)
->Copyright © [yyyy] Jumia Group, https://jumia.com
+>Copyright © [yyyy] Jumia, https://jumia.com
 
 >Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
