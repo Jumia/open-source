@@ -18,4 +18,4 @@ Before writing a line of code to change a project, we highly recommend reaching 
 * Send coherent history - Make sure each individual commit in your pull request is meaningful. If you had to make multiple intermediate commits while developing, please [squash them](http://www.git-scm.com/book/en/v2/Git-Tools-Rewriting-History#Changing-Multiple-Commit-Messages) before submitting.
 
 ## Issue
-[Issue template](https://github.com/:vendor:/:project:/ISSUE_TEMPLATE.MD)   
+[Issue template](https://github.com/JumiaAIG/OSource/blob/master/ISSUE_TEMPLATE.md)   
