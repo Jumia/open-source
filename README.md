@@ -1,6 +1,6 @@
-<center>
-<img src="https://github.com/JumiaAIG/OSource/raw/master/jumia.png" alt="Jumia" />
-</center>
+<p align="center">
+    <img src="https://github.com/JumiaAIG/OSource/raw/master/jumia.png" alt="Jumia" style="heigth: 60px" />
+</p>
 
 
 How to Open Source at Jumia
