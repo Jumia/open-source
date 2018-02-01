@@ -1,7 +1,5 @@
-<p align="center"><img src="https://about.jumia.com/img/logo.png"></p>
-<p align="center">
-    <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+<center>![Jumia](jumia.png?raw=true)</center>
+
 
 How to Open Source at Jumia
 ==================
