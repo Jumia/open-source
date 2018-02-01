@@ -1,4 +1,6 @@
-<center>![Jumia](jumia.png?raw=true)</center>
+<center>
+![Jumia](https://github.com/JumiaAIG/OSource/raw/master/jumia.png)
+</center>
 
 
 How to Open Source at Jumia
