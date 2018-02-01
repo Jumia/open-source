@@ -44,7 +44,7 @@ Join the Jumia Open Source team on [Slack](https://opensource-jumia.slack.com) a
 #### Never open-source these:
 
 - PCI DSS-related projects: e.g. payment services
-- Compliance documentation
+- Compliance projects
 - Domain knowledge
 - Customer data
 - Unique Selling Points (USPs)
