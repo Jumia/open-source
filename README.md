@@ -1,5 +1,5 @@
 <center>
-![Jumia](https://github.com/JumiaAIG/OSource/raw/master/jumia.png)
+<img src="https://github.com/JumiaAIG/OSource/raw/master/jumia.png" alt="Jumia" />
 </center>
 
 
