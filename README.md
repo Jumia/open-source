@@ -67,13 +67,13 @@ The next sections offer more details on differences between open source and “c
 
 Jumia's main GitHub organization is [/Jumia](https://github.com/Jumia). This organization is reserved for projects meeting these criteria:
 - **is useful beyond Jumia**. It is free of Jumia dependencies and simple for a non-Jumia to install and start using.
-- **has user-friendly documentation** that is up-to-date and clear about what the project does, and how to install/start/configure/run it. ([This template can help you](https://github.com/Jumia/open-source/blob/master/Templates/README.md).)
+- **has user-friendly documentation** that is up-to-date and clear about what the project does, and how to install/start/configure/run it. ([This template can help you](Templates/README.md).)
 - **is tested**. It has automated tests and takes advantage of test coverage.
 - **is under active development**, or is stable enough to be considered a “finished” product. If the project is incomplete, at least one maintainer has worked on it in the last three months. If it’s stable and doesn’t require constant maintenance, you’ve stated as much in your README.
 - **is innovative**. If it duplicates an existing project, it does at least one thing better, faster, differently, etc., or is higher-quality.
 - **meets our non-negotiable guidelines** regarding security and compliance. You need to include a LICENSE.md, for example.
 - **is an MVP**. It either meets or surpasses “minimum viable product” status. An outside developer could use it and even contribute to it. If it’s buggy or very early-stage, it includes a brief development status in the intro stating as much. (This template can help you.)
-- ** has a CONTRIBUTING.md.** For a template, [go here](https://github.com/Jumia/open-source/blob/master/Templates/CONTRIBUTING.md).
+- ** has a CONTRIBUTING.md.** For a template, [go here](Templates/CONTRIBUTING.md).
 - **has a plan**. Its maintainers care about making it a success. They commit to responding to PRs and issues in a timely manner (48-72 hours), thank contributors, and convert quality contributors to trusted maintainers as appropriate. If you need some guidance, check out [Mozilla's helpful resources](https://mozilla.github.io/open-leadership-training-series/articles/open-project-maintenance/open-project-maintenance/) on this topic.
 
 
@@ -87,7 +87,7 @@ We request that you use private GHE repositories only if they include sensitive 
 
 
 ##### How to InnerSource
-[Here's our homegrown how-to](https://github.com/Jumia/open-source/blob/master/innersource.md) with materials to get you started.
+[Here's our homegrown how-to](innersource.md) with materials to get you started.
 
 ## Project Basics
 
@@ -103,7 +103,7 @@ Not sure what to ask for, or how to peer-review? This list of [11 best practices
 ### Creating a README
 
 #### Do:
-- [Use this checklist](https://github.com/Jumia/open-source/blob/master/Templates/README.md). 
+- [Use this checklist](Templates/README.md). 
 - Break up text often, for better readability.
 - Think about SEO.
 
