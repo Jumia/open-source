@@ -352,3 +352,16 @@ Ah, so you want to get more serious about contributing! Excellent. Becoming a co
 - [Apache Software Foundation's how-to](https://community.apache.org/contributors/), including "Moving From Contributor to Committer," [FAQ](https://www.apache.org/dev/committers.html) and [guide](https://www.apache.org/dev/new-committers-guide.html)
 
 Please let the Jumia Open source team know about your external contributions so we can help you get the recognition and support you deserve.
+
+### Open Source Team 
+
+#### Contact
+- opensource@jumia.com
+
+#### Maintainers
+- Daniel Loureiro
+- Henrique Alves
+- Marcelo Almeida
+- Samuel Nogueira
+- Tiago Lopes
+
