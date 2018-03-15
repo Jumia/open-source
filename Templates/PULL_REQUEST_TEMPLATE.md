@@ -1,4 +1,5 @@
-**NOTE:** this is a template for contributing, each contributing file should be project oriented)
+**NOTE:** this is a template for PULL REQUEST, each PULL_REQUEST_TEMPLATE.md file should be project oriented
+
 
 <!--- Provide a general summary of your changes in the Title above -->
 
