@@ -66,6 +66,7 @@ The next sections offer more details on differences between open source and “c
 #### The Main Org and What Makes a Project “Open Source”
 
 Jumia's main GitHub organization is [/Jumia](https://github.com/Jumia). This organization is reserved for projects meeting these criteria:
+- **does it build**.
 - **is useful beyond Jumia**. It is free of Jumia dependencies and simple for a non-Jumia to install and start using.
 - **has user-friendly documentation** that is up-to-date and clear about what the project does, and how to install/start/configure/run it. ([This template can help you](Templates/README.md).)
 - **is tested**. It has automated tests and takes advantage of test coverage.
@@ -73,7 +74,7 @@ Jumia's main GitHub organization is [/Jumia](https://github.com/Jumia). This org
 - **is innovative**. If it duplicates an existing project, it does at least one thing better, faster, differently, etc., or is higher-quality.
 - **meets our non-negotiable guidelines** regarding security and compliance. You need to include a LICENSE.md, for example.
 - **is an MVP**. It either meets or surpasses “minimum viable product” status. An outside developer could use it and even contribute to it. If it’s buggy or very early-stage, it includes a brief development status in the intro stating as much. (This template can help you.)
-- ** has a CONTRIBUTING.md.** For a template, [go here](Templates/CONTRIBUTING.md).
+- **has a CONTRIBUTING.md.** For a template, [go here](Templates/CONTRIBUTING.md).
 - **has a plan**. Its maintainers care about making it a success. They commit to responding to PRs and issues in a timely manner (48-72 hours), thank contributors, and convert quality contributors to trusted maintainers as appropriate. If you need some guidance, check out [Mozilla's helpful resources](https://mozilla.github.io/open-leadership-training-series/articles/open-project-maintenance/open-project-maintenance/) on this topic.
 
 
