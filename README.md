@@ -68,7 +68,7 @@ The next sections offer more details on differences between open source and “c
 #### The Main Org and What Makes a Project “Open Source”
 
 Jumia's main GitHub organization is [/Jumia](https://github.com/Jumia). This organization is reserved for projects meeting these criteria:
-- **does it build**.
+- **it builds**.
 - **is useful beyond Jumia**. It is free of Jumia dependencies and simple for a non-Jumia to install and start using.
 - **has user-friendly documentation** that is up-to-date and clear about what the project does, and how to install/start/configure/run it. ([This template can help you](Templates/README.md).)
 - **is tested**. It has automated tests and takes advantage of test coverage.
