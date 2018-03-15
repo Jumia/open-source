@@ -5,8 +5,6 @@ A guide to releasing an open-source project at [Jumia](https://group.jumia.com),
 
 We're really grateful to [Zalando](http://zalando.com) for creating a great documentation on how to companies should open source. This document is based on that guide.
 
-**Note:** All the files inside templates folder are only for reference and must be adapted to the project reality.
-
 ### Why Open Source?
 
 Because it can: improve quality, mitigate risk, increase trust, save us money, expand our technology choices, be fun, enable us to give back to the community, strengthen our tech brand, and attract talent.
@@ -258,6 +256,14 @@ An example for Scala (with sbt):
 ```
 licenses += ("MIT", url("http://opensource.org/licenses/MIT"))
 ```
+
+An example for PHP (with composer):
+```json
+{
+    "license": "MIT"
+}
+```
+https://getcomposer.org/doc/04-schema.md#license
 
 #### Restrictions Imposed by the License
 “Dependency” typically means “being linked with,” “included in your artifact,” or “depends on it during runtime.” Dependencies can limit you. To remain in compliance, check the licenses of your projects. Your build tool’s license does not affect your software’s license. A jar file or Python dependency will affect your software.
