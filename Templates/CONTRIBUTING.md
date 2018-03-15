@@ -1,3 +1,5 @@
+**NOTE:** this is a template for CONTRIBUTING, each CONTRIBUTING.md file should be project oriented
+
 # Introduction
 
 ### Write something nice here!

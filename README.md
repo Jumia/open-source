@@ -5,6 +5,8 @@ A guide to releasing an open-source project at [Jumia](https://group.jumia.com),
 
 We're really grateful to [Zalando](http://zalando.com) for creating a great documentation on how to companies should open source. This document is based on that guide.
 
+**Note:** All the files inside templates folder are only for reference and must be adapted to the project reality.
+
 ### Why Open Source?
 
 Because it can: improve quality, mitigate risk, increase trust, save us money, expand our technology choices, be fun, enable us to give back to the community, strengthen our tech brand, and attract talent.

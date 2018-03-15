@@ -1,3 +1,6 @@
+**NOTE:** this is a template for code of conduct, each CODE_OF_CONDUCT.md file should be project oriented
+
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

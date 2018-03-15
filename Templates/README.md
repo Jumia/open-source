@@ -1,3 +1,6 @@
+**NOTE:** this is a template for README, each README file should be project oriented
+
+
 ## Jumia's README Template
 
 Clear documentation is critical to the success of your project. This checklist is meant to help you cover all your bases. Not every section/subsection will be relevant to your project; pick and choose what is. Inspired by READMEs of very successful projects like etcd.
